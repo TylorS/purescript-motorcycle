@@ -1,0 +1,22 @@
+{
+  "name": "purescript-motorcycle",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "output"
+  ],
+  "dependencies": {
+    "purescript-eff": "^2.0.0",
+    "purescript-prelude": "^2.5.0",
+    "purescript-refs": "^2.0.0",
+    "purescript-maybe": "^2.1.1",
+    "purescript-partial": "^1.2.0",
+    "purescript-stream": "^0.1.0",
+    "purescript-foreign": "^3.2.0"
+  },
+  "devDependencies": {
+    "purescript-console": "^2.0.0",
+    "purescript-psci-support": "^2.0.0"
+  }
+}
