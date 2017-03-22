@@ -1,18 +1,16 @@
-<a name="0.1.0"></a>
-# [0.1.0](https://github.com/TylorS/purescript-stream/compare/6b75d2f...v0.1.0) (2017-03-16)
+<a name="0.2.0"></a>
+# [0.2.0](https://github.com/TylorS/purescript-motorcycle/compare/633869e...v0.2.0) (2017-03-22)
 
 
 ### Bug Fixes
 
-* **Stream:** add missing exports ([13c18b7](https://github.com/TylorS/purescript-stream/commit/13c18b7))
+* **gitignore:** remove npm debug log ([4c8b4dc](https://github.com/TylorS/purescript-motorcycle/commit/4c8b4dc))
 
 
 ### Features
 
-* **stream:** implement more helpers and combinators ([8e8b516](https://github.com/TylorS/purescript-stream/commit/8e8b516))
-* **stream:** more combinators ([a50a246](https://github.com/TylorS/purescript-stream/commit/a50a246))
-* **stream:** reimplement ([0813a54](https://github.com/TylorS/purescript-stream/commit/0813a54))
-* **stream:** start of a stream library ([6b75d2f](https://github.com/TylorS/purescript-stream/commit/6b75d2f))
+* **DOM:** add basic dom component `domSources` ([e7a7b3c](https://github.com/TylorS/purescript-motorcycle/commit/e7a7b3c))
+* **run:** basic implementation of run ([633869e](https://github.com/TylorS/purescript-motorcycle/commit/633869e))
 
 
 
