@@ -8,12 +8,10 @@
   ],
   "dependencies": {
     "purescript-eff": "^2.0.0",
-    "purescript-prelude": "^2.5.0",
-    "purescript-refs": "^2.0.0",
-    "purescript-maybe": "^2.1.1",
-    "purescript-partial": "^1.2.0",
-    "purescript-stream": "^0.1.0",
-    "purescript-foreign": "^3.2.0"
+    "purescript-stream": "^0.2.0",
+    "purescript-mostly-dom": "^0.1.0",
+    "purescript-dom": "^3.7.0",
+    "purescript-maps": "^2.1.2"
   },
   "devDependencies": {
     "purescript-console": "^2.0.0",
