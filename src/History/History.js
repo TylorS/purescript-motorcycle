@@ -5,7 +5,7 @@ var inBrowser = typeof window !== 'undefined'
 var history = inBrowser ? require('history/createBrowserHistory')() : require('history/createMemoryHistory')()
 
 exports.createHistory = function (unit) {
-  var subject = Stream.toHoldSubject(Stream.startWith(history.location)(Stream.never))
+  var subject = Stream.toHoldSubject(1)(Stream.startWith(history.location)(Stream.never))
 
   history.listen(function (location) {
     Stream.subjectEvent(location)(subject)
