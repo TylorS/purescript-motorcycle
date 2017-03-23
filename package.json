@@ -36,6 +36,7 @@
     "validate-commit-msg": "^2.11.2"
   },
   "dependencies": {
+    "history": "^4.6.1",
     "mostly-dom": "^1.4.2"
   }
 }
